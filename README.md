@@ -1,6 +1,6 @@
 # Shop-App
 
-<img src="[https://www.pinclipart.com/picdir/big/33-338965_luncheon-clipart-thanksgiving-plate-fork-and-knife-clipart.png](https://img.freepik.com/free-vector/shop-with-sign-we-are-open_52683-38687.jpg?w=2000)" alt="Alt text" title="Optional title">
+<img src="https://img.freepik.com/free-vector/shop-with-sign-we-are-open_52683-38687.jpg?w=2000)](https://retaildesignblog.net/wp-content/uploads/2018/11/7R9A5223-780x520.jpg" alt="Alt text" title="Optional title">
 
 
 
