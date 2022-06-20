@@ -15,9 +15,9 @@ export default function User() {
         <div className="userContainer">
             <div className="userShow">
                 <div className="userShowTop">
-                    <img src="https://pbs.twimg.com/profile_images/1404500645655240707/cZ08X5px_400x400.jpg" alt="" className="userShowImg" />
+                    <img src="https://offradranch.com/images/sports/cameron-hanes-8211-bio-wife-family-age-net-worth-height.jpg" alt="" className="userShowImg" />
                     <div className="userShowTopTitle">
-                        <span className="userShowUsername">Thomas Müller</span>
+                        <span className="userShowUsername">Cameron Hanes</span>
                         <span className="userShowUserTitle">Software Engineer</span>
                     </div>
                 </div>
@@ -25,12 +25,12 @@ export default function User() {
                     <span className="userShowTitle">Account Details</span>
                     <div className="userShowInfo">
                         <PermIdentity className='userShowIcon' />
-                        <span className="userShowInfoTitle">tommy89</span>
+                        <span className="userShowInfoTitle">cam82</span>
                     </div>
 
                     <div className="userShowInfo">
                         <CalendarToday className='userShowIcon' />
-                        <span className="userShowInfoTitle">13.09.89</span>
+                        <span className="userShowInfoTitle">13.09.82</span>
                     </div>
 
                     <span className="userShowTitle">Contact Details</span>
@@ -41,12 +41,12 @@ export default function User() {
 
                     <div className="userShowInfo">
                         <MailOutline className='userShowIcon' />
-                        <span className="userShowInfoTitle">goat@gmail.com</span>
+                        <span className="userShowInfoTitle">camhanes@gmail.com</span>
                     </div>
 
                     <div className="userShowInfo">
                         <LocationOn className='userShowIcon' />
-                        <span className="userShowInfoTitle">Munich | Germany</span>
+                        <span className="userShowInfoTitle">Florida | USA</span>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ export default function User() {
                     <div className="userUpdateItem">
                         <label>Username</label>
                         <input type="text"
-                        placeholder='tommy89'
+                        placeholder='cam82'
                         className="userUpdateInput"
                         />
                     </div>
@@ -66,7 +66,7 @@ export default function User() {
                         <label>Full Name</label>
                         <input
                         type="text"
-                        placeholder='Thomas Müller'
+                        placeholder='Cameron Hanes'
                         className="userUpdateInput"
                         />
                     </div>
@@ -75,7 +75,7 @@ export default function User() {
                         <label>Email</label>
                         <input
                         type="email"
-                        placeholder='goat@gmail.com'
+                        placeholder='camhanes@gmail.com'
                         className="userUpdateInput"
                         />
                     </div>
@@ -93,7 +93,7 @@ export default function User() {
                         <label>Address</label>
                         <input
                         type="text"
-                        placeholder='Munich | Germany'
+                        placeholder='Florida | USA'
                         className="userUpdateInput"
                         />
                     </div>
@@ -103,7 +103,7 @@ export default function User() {
                 <div className="userUpdateUpload">
                     <img 
                        className='userUpdateImg'
-                       src="https://pbs.twimg.com/profile_images/1404500645655240707/cZ08X5px_400x400.jpg"
+                       src="https://offradranch.com/images/sports/cameron-hanes-8211-bio-wife-family-age-net-worth-height.jpg"
                        alt="" 
                     />
                     <label htmlFor="file">

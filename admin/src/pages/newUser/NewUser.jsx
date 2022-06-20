@@ -8,17 +8,17 @@ export default function NewUser() {
         <form className="newUserForm">
             <div className="newUserItem">
                 <label>Username</label>
-                <input type="text" placeholder="thomas"/>
+                <input type="text" placeholder="cam82"/>
             </div>
 
             <div className="newUserItem">
                 <label>Full Name</label>
-                <input type="text" placeholder="Thomas Müller"/>
+                <input type="text" placeholder="Cameron Hanes"/>
             </div>
 
             <div className="newUserItem">
                 <label>Email</label>
-                <input type="email" placeholder="goat@gmail.com"/>
+                <input type="email" placeholder="cam82@gmail.com"/>
             </div>
 
             <div className="newUserItem">
@@ -33,7 +33,7 @@ export default function NewUser() {
 
             <div className="newUserItem">
                 <label>Address</label>
-                <input type="text" placeholder="Munich | Germany"/>
+                <input type="text" placeholder="Florida | USA"/>
             </div>
 
             <div className="newUserGender">

@@ -2,9 +2,10 @@ import { publicRequest, userRequest } from "../requestMethods"
 import { deleteProductFailure, deleteProductStart, deleteProductSuccess,
          getProductFailure, getProductStart, getProductSuccess,
          updateProductStart, updateProductFailure, updateProductSuccess,
-         addProductStart, addProductSuccess, addProductFailure
+         addProductStart, addProductSuccess, addProductFailure,
          } from "./productRedux"
-import { loginFailure, loginStart, loginSuccess } from "./userRedux"
+import { loginFailure, loginStart, loginSuccess,
+         } from "./userRedux"
 
 export const login = async (dispatch, user) => {
     dispatch(loginStart())
@@ -55,3 +56,4 @@ export const addProduct = async (product, dispatch) => {
         dispatch(addProductFailure())
     }
 }
+

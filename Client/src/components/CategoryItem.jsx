@@ -18,19 +18,19 @@ const Image = styled.img`
 `
 
 const Info = styled.div`
-    position: aboslute;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 0%;
-    // display: flex;
+    height: 100%;
+    display: flex;
     flex-direction: column; //   NOT WORKING
     align-items: center;
     justify-content: center;
 `
 
 const Title = styled.h1`
-    color: black;
+    color: #ffffff;
     margin-bottom: 20px;
 `
 
