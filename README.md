@@ -1,8 +1,6 @@
 # Shop-App
 
-<img src="https://retaildesignblog.net/wp-content/uploads/2018/11/7R9A5223-780x520.jpg" alt="Alt text" title="Optional title">
-
-
+Proyect Screenshots
 
 ![Client 1](https://user-images.githubusercontent.com/84095731/174672927-ce87024a-8f9e-4023-a615-06bc936a8f92.JPG)
 ![Client 2](https://user-images.githubusercontent.com/84095731/174672935-25294e48-6445-4577-b67d-fbf01f7f9187.JPG)
