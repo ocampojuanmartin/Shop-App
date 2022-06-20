@@ -8,6 +8,7 @@ import { useSelector } from 'react-redux'
 import StripeCheckout from "react-stripe-checkout"
 import { userRequest } from '../requestMethods'
 import { useNavigate } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 
 const KEY = process.env.REACT_APP_STRIPE // not working, using it locally
@@ -180,7 +181,10 @@ const Cart = () => {
         <Wrapper>
             <Title>YOUR BAG</Title>
             <Top>
-                <TopButton>CONTINUE SHOPPING</TopButton>
+                <Link to='/'>
+                <TopButton>CONTINUE SHOPPING</TopButton>   
+                </Link>
+                
                 <TopTexts>
                     <TopText>Shopping Bag(2)</TopText>
                     <TopText>Your Wishlist(0)</TopText>

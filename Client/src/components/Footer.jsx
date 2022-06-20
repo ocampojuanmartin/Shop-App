@@ -33,6 +33,7 @@ const SocialIcon = styled.div`
     align-items: center;
     justify-content: center;
     margin-right: 15px;
+    cursor: pointer;
 `
 
 const Center = styled.div`
