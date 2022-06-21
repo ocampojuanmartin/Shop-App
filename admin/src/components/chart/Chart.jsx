@@ -3,9 +3,6 @@ import { LineChart, Line, XAxis, CartesianGrid, Tooltip, ResponsiveContainer } f
 
 
 export default function Chart({title, data, dataKey, grid}) {
-
-   
-
   return (
     <div className="chart">
         <h3 className="chartTittle">{title}</h3>
